@@ -1,0 +1,359 @@
+心房細動
+心房性細動
+Atrial Fibrillation
+Atrial Fibrillations
+Fibrillations, Atrial
+Fibrillation, Atrial
+Auricular Fibrillation
+Auricular Fibrillations
+Fibrillations, Auricular
+Fibrillation, Auricular
+Familial Atrial Fibrillation
+血液凝固抑制剤
+抗凝固剤
+抗凝固薬
+抗凝血薬
+抗凝血剤
+Anticoagulants
+Anticoagulant Drugs
+Drugs, Anticoagulant
+Anticoagulant Agents
+Agents, Anticoagulant
+ANTICOAG
+Indirect Thrombin Inhibitors
+Inhibitors, Indirect Thrombin
+Thrombin Inhibitors, Indirect
+Kyoto University 
+京大
+京都大学
+Kyoto Prefectural University of Medicine
+Kyoto Prefectural University of Medicine, 2nd Dept. Int. Medical
+Kyoto Prefectural University of Medicine, 2nd Dept. Surg.
+Kyoto Prefectural University of Medicine, Dept. Hygiene
+Kyoto Prefectural University of Medicine, Dept. Prey. Medical
+Kyoto Prefectural University of Medicine, RINDG,Dept. Biochem. and Mol. Genetics
+Kyoto University 
+Kyoto University  Education
+Kyoto University,  RI Research Center
+Kyoto University, College of Medical Technology
+Kyoto University, Dept. MoI. Oncol.
+Kyoto University, Fac. Agr.
+Kyoto University, Fac. Agr.,Dept. Agr. Chem.
+Kyoto University, Fac. Agr.,Dept. Applied Biology Science
+Kyoto University, Fac. Agr.,Dept. Biochem.
+Kyoto University, Fac. Medical
+Kyoto University, Fac. Medical,Byer Chair Dept. Immunol. Allergy
+Kyoto University, Fac. Medical,Congenital Anomaly Research Cen.
+Kyoto University, Fac. Medical,Dept. Anat.
+Kyoto University, Fac. Medical,Dept. Aneth.
+Kyoto University, Fac. Medical,Dept. Biology Science
+Kyoto University, Fac. Medical,Dept. Cell Biology
+Kyoto University, Fac. Medical,Dept. Gastro. Surg.
+Kyoto University, Fac. Medical,Dept. Immunol. Cell Biology
+Kyoto University, Fac. Medical,Dept. Immunol. II
+Kyoto University, Fac. Medical,Dept. Medical Chem.
+Kyoto University, Fac. Medical,Dept. Mol. Gen.
+Kyoto University, Fac. Medical,Dept. Ophthalmol.
+Kyoto University, Fac. Medical,Dept. Pharmacol.
+Kyoto University, Fac. Medical,Dept. Physiology 
+Kyoto University, Fac. Medical,Dept. Tumor Biology
+Kyoto University, Fac. Medical,Dept.Pathol. Tumor Biology
+Kyoto University, Fac. Medical,Lab. Immunol.
+Kyoto University, Fac. Medical,Org. Horizontal Medical Research
+Kyoto University, Fac. Medical,Second Dept. Anatomy
+Kyoto University, Fac. Science
+Kyoto University, Fac. Science,Cent. Mol. Dev. Biology
+Kyoto University, Fac. Science,Department of Chemistry
+Kyoto University, Fac. Science,Dept. Biology
+Kyoto University, Fac. Science,Dept. Biophys.
+Kyoto University, Fac. Science,Dept. BioScience
+Kyoto University, Fac. Science,Dept. Bot.
+Kyoto University, Fac. Science,Dept. Phys.
+Kyoto University, Grad.School Agr.
+Kyoto University, Grad.School Agr.,Div. Appl. Life Science
+Kyoto University, Graduate School Biostudies
+Kyoto University, Graduate School Eng.
+Kyoto University, Graduate School Eng.,Dept. Synth. Biology Chem.
+Kyoto University, Graduate School Info.,Dept. Intel. Science Technology
+Kyoto University, Graduate School Medical
+Kyoto University, Graduate School Medical,Cardiovascular Medical
+Kyoto University, Graduate School Medical,COE
+Kyoto University, Graduate School Medical,Dept. Clin. Mol. Biology
+Kyoto University, Graduate School Medical,Dept. Mol. Biology
+Kyoto University, Graduate School Medical,Dept. Mol. Genetics
+Kyoto University, Graduate School Medical,Dept. Neurol.
+Kyoto University, Graduate School Medical,Dept. Pathol. Tumor Biology
+Kyoto University, Graduate School Medical,Dept. Therapeutic Radiol. Oncol.
+Kyoto University, Graduate School Medical,HMRO
+Kyoto University, Graduate School Medical,Radiation Genetics
+Kyoto University, Graduate School Pharm. Science,Dept. Biology Chem.
+Kyoto University, Graduate School Pharm. Science,Dept. Genetics Biochem.
+Kyoto University, Graduate School Science
+Kyoto University, Graduate School Science,Dept. Biology
+Kyoto University, Graduate School Science,Dept. Biophys.
+Kyoto University, Graduate School Science,Dept. Bot.
+Kyoto University, Hospital.,Translational. Research
+Kyoto University, Institute Chem. Research
+Kyoto University, Institute Chem. Research,Bioinformatics Center
+Kyoto University, Institute Chem. Research,Div. Mol. Biology Inform.
+Kyoto University, Institute Front. Medical Science
+Kyoto University, Institute Front. Medical Science,Dept. Bioartificial Organs
+Kyoto University, Institute Front. Medical Science,Dept. Biology Repair
+Kyoto University, Institute Front. Medical Science,Dept. Biomaterials
+Kyoto University, Institute Front. Medical Science,Dept. Cell. Differentiation
+Kyoto University, Institute Front. Medical Science,Dept. Dev. Differentiation
+Kyoto University, Institute Front. Medical Science,Dept. Exp. Pathol.
+Kyoto University, Institute Front. Medical Science,Dept. Growth Regulation
+Kyoto University, Institute Front. Medical Science,Dept. Immunology
+Kyoto University, Institute Front. Medical Science,Dept. Mechanical Properties
+Kyoto University, Institute Front. Medical Science,Dept. Medical Systems Ctl.
+Kyoto University, Institute Front. Medical Science,Dept. Mol. Cell. Biology
+Kyoto University, Institute Front. Medical Science,Dept. Organ Reconstruct.
+Kyoto University, Institute Front. Medical Science,Dept. Regenerative Medical
+Kyoto University, Institute Front. Medical Science,Dept. Reparative Materials
+Kyoto University, Institute Front. Medical Science,Dept. Stem Cell Biol
+Kyoto University, Institute Front. Medical Science,Dept. Tissue Reconstruc.
+Kyoto University, Institute Front. Medical Science,Dept. Tissue Regeneration
+Kyoto University, Institute Front. Medical Science,Dept. Ultrastr. Res
+Kyoto University, Institute Front. Medical Science,Field Biology Func.
+Kyoto University, Institute Front. Medical Science,Field Clinical Application
+Kyoto University, Institute Front. Medical Science,Field Regeneration Ctl.
+Kyoto University, Institute Front. Medical Science,Field Tissue Eng.
+Kyoto University, Institute Sustainable Humanosphere
+Kyoto University, Institute Virus Research
+Kyoto University, Institute Virus Research,Center Emerging Virus Research
+Kyoto University, Institute Virus Research,CEVR,Lab. Host Factors
+Kyoto University, Institute Virus Research,CEVR,Lab. Viral Pathogenesis
+Kyoto University, Institute Virus Research,CEVR,Lab. Viral Replication
+Kyoto University, Institute Virus Research,Dept. Biology Responses
+Kyoto University, Institute Virus Research,Dept. Cell Biology
+Kyoto University, Institute Virus Research,Dept. Genetics Mol. Biology
+Kyoto University, Institute Virus Research,Dept. Viral Oncol. 
+Kyoto University, Institute Virus Research,ERCID,Lab. Gene-modified Mouse
+Kyoto University, Institute Virus Research,ERCID,Lab. Primate Model
+Kyoto University, Institute Virus Research,Exper. Research Center Infectious Diseases
+Kyoto University, Institute Virus Research,Lab. Biological Protection
+Kyoto University, Institute Virus Research,Lab. Bioresponse Regulation
+Kyoto University, Institute Virus Research,Lab. Cell Regulation
+Kyoto University, Institute Virus Research,Lab. Gene Analysis
+Kyoto University, Institute Virus Research,Lab. Growth Regulation
+Kyoto University, Institute Virus Research,Lab. Human Tumor Viruses
+Kyoto University, Institute Virus Research,Lab. Infection Prevention
+Kyoto University, Institute Virus Research,Lab. Integrated Biological Info.
+Kyoto University, Institute Virus Research,Lab. Mol. Gen.
+Kyoto University, Institute Virus Research,Lab. Regulatory Info.
+Kyoto University, Institute Virus Research,Lab. Signal Transduction
+Kyoto University, Institute Virus Research,Lab. Subcellular Biogenesis
+Kyoto University, Institute Virus Research,Lab. Tumor Biogenesis
+Kyoto University, Institute Virus Research,Research Center AIDS
+Kyoto University, Institute Virus Research,Research Center AIDS,Lab. Virus Control
+Kyoto University, Institute Virus Research,Research Center AIDS,Lab. Virus Immunol.
+Kyoto University, Institute Virus Research,Research Center AIDS,Lab. Virus Pathogenesis
+Kyoto University, School Coll. Medical Technology
+Kyoto University, School Medical,Dept. Radiation Genetics
+京大
+京大・HMRO|京大・医・先端融合|京大・院・医・先端融合研
+京大・RIセンター
+京大・ウイルス研
+京大・ウイルス研・エイズ研究
+京大・ウイルス研・がんウイルス
+京大・ウイルス研・がんウイルス研究部門
+京大・ウイルス研・がんウイルス研究部門・がん遺伝子研究
+京大・ウイルス研・がんウイルス研究部門・ヒトがんウイルス研究|京大・ウイルス研・ヒトがんウィルス
+京大・ウイルス研・がんウイルス研究部門・生体発がん機構研究
+京大・ウイルス研・がんウイルス研究部門・細胞制御研究
+京大・ウイルス研・がん遺伝子
+京大・ウイルス研・ゲノム改変マウス
+京大・ウイルス研・ヒトがんウイルス
+京大・ウイルス研・信号伝達
+京大・ウイルス研・分子遺伝
+京大・ウイルス研・化学
+京大・ウイルス研・増殖制御
+京大・ウイルス研・宿主要因
+京大・ウイルス研・応答調節
+京大・ウイルス研・情報制御
+京大・ウイルス研・情報高分子化学
+京大・ウイルス研・感染免疫
+京大・ウイルス研・感染制御
+京大・ウイルス研・感染病態
+京大・ウイルス研・感染症モデル
+京大・ウイルス研・感染防御
+京大・ウイルス研・新興ウイルス感染症セ
+京大・ウイルス研・新興ウイルス感染症セ・宿主要因解析チーム
+京大・ウイルス研・新興ウイルス感染症セ・病態解明チーム
+京大・ウイルス研・新興ウイルス感染症セ・複製基盤解析チーム
+京大・ウイルス研・構造形成
+京大・ウイルス研・生体応答
+京大・ウイルス研・生体応答学研究部門
+京大・ウイルス研・生体応答学研究部門・応答調節研究分野
+京大・ウイルス研・生体応答学研究部門・感染防御研究分野
+京大・ウイルス研・生体応答学研究部門・生体防御研究分野
+京大・ウイルス研・生体発がん機構
+京大・ウイルス研・生体防御
+京大・ウイルス研・病態解明
+京大・ウイルス研・細胞制御
+京大・ウイルス研・細胞生物
+京大・ウイルス研・細胞生物学研究部門
+京大・ウイルス研・細胞生物学研究部門・信号伝達学研究分野|京大・ウイルス研・信号伝達学
+京大・ウイルス研・細胞生物学研究部門・増殖制御学研究分野|京大・ウイルス研・増殖制御学
+京大・ウイルス研・細胞生物学研究部門・情報制御研究分野
+京大・ウイルス研・細胞生物学研究部門・構造形成学研究分野|京大・ウイルス研・構造形成学
+京大・ウイルス研・細胞生物学研究部門・高次生体情報研究分野
+京大・ウイルス研・複製基盤
+京大・ウイルス研・遺伝子動態調節
+京大・ウイルス研・遺伝子動態調節研究部門
+京大・ウイルス研・遺伝子動態調節研究部門・分子遺伝学研究|京大・ウイルス研・分子遺伝学
+京大・ウイルス研・遺伝子動態調節研究部門・情報高分子化学研究|京大・ウィルス研・情報高分子化学
+京大・ウイルス研・遺伝子動態調節研究部門・遺伝子情報解析研究
+京大・ウイルス研・遺伝子情報解析
+京大・ウイルス研・附属エイズ研究施設
+京大・ウイルス研・附属エイズ研究施設・感染免疫研究領域
+京大・ウイルス研・附属エイズ研究施設・感染制御研究領域
+京大・ウイルス研・附属エイズ研究施設・感染病態研究領域
+京大・ウイルス研・附属感染症モデル研究センター
+京大・ウイルス研・附属感染症モデル研究センター・ゲノム改変マウス研究領域
+京大・ウイルス研・附属感染症モデル研究センター・霊長類モデル研究領域
+京大・ウイルス研・附属新興ウイルス感染症研究センター
+京大・ウイルス研・霊長類モデル
+京大・ウイルス研・高次生体情報
+京大・ウ研|京大・ウイ研|京大・ウイルス|京大・ウイルス研究所|京大・ウィ研|京大・ウィルス|京大・ウィルス研|京大・ウィルス研究所
+京大・再生医科学研究所
+京大・再生研
+京大・再生研・再生免疫
+京大・再生研・再生医学応用
+京大・再生研・再生医学応用研究部門
+京大・再生研・再生医学応用研究部門・再生医学応用
+京大・再生研・再生医学応用研究部門・器官形成応用
+京大・再生研・再生医学応用研究部門・生体修復応用
+京大・再生研・再生医学応用研究部門・組織再生応用
+京大・再生研・再生医学応用研究部門・臓器再建応用
+京大・再生研・再生増殖制御
+京大・再生研・再生統御学研究部門
+京大・再生研・再生統御学研究部門・再生免疫学|京大・再生研・再生免疫学
+京大・再生研・再生統御学研究部門・再生増殖制御学|京大・再生研・再生増殖制御学
+京大・再生研・再生統御学研究部門・再生誘導研究|京大・再生研・再生誘導研究
+京大・再生研・再生統御学研究部門・発生分化研究|京大・再生研・発生分化研究
+京大・再生研・再生誘導
+京大・再生研・器官形成応用
+京大・再生研・生体システム制御
+京大・再生研・生体修復応用
+京大・再生研・生体再建
+京大・再生研・生体分子設計
+京大・再生研・生体微細構造
+京大・再生研・生体材料
+京大・再生研・生体機能学研究部門
+京大・再生研・生体機能学研究部門・生体システム制御学|京大・再生研・生体システム制御学
+京大・再生研・生体機能学研究部門・生体再建学|京大・再生研・生体再建学
+京大・再生研・生体機能学研究部門・生体微細構造学|京大・再生研・生体微細構造学
+京大・再生研・生体機能学研究部門・生体機能調節学|京大・再生研・生体機能調節学
+京大・再生研・生体機能学研究部門・細胞機能調節学|京大・再生研・細胞機能調節学|京大・再生研・細胞機能
+京大・再生研・生体機能調節
+京大・再生研・生体物性
+京大・再生研・生体組織工学研究部門
+京大・再生研・生体組織工学研究部門・生体分子設計学|京大・再生研・生体分子設計学
+京大・再生研・生体組織工学研究部門・生体材料学|京大・再生研・生体材料学
+京大・再生研・生体組織工学研究部門・生体物性学|京大・再生研・生体物性学
+京大・再生研・生体組織工学研究部門・組織修復材料学|京大・再生研・組織修復材料学
+京大・再生研・発生分化
+京大・再生研・細胞機能調節
+京大・再生研・組織修復材料
+京大・再生研・組織再生応用
+京大・再生研・臓器再建応用
+京大・化学研究所
+京大・化研
+京大・化研・バイオインフォセンター
+京大・化研・バイオインフォマティクスセンター
+京大・化研・生態分子
+京大・化研・生態分子情報研究
+京大・医
+京大・医・21世紀COE
+京大・医・二解
+京大・医・保健学科
+京大・医・先天異常解析セ
+京大・医・先端領域
+京大・医・先端領域融合医学研
+京大・医・免疫研
+京大・医・免疫第II
+京大・医・免疫細胞生物
+京大・医・分子免疫・アレルギー
+京大・医・分子免疫・アレルギー（バイエル）
+京大・医・分子生物
+京大・医・分子細胞情報
+京大・医・分子細胞情報学
+京大・医・分子腫瘍
+京大・医・分子遺伝学
+京大・医・医化学|京大・医・医化|京大・医・医化I|京大・医・医化II|京大・医・医化学I|京大・医・医化学II
+京大・医・循内
+京大・医・放射線科学
+京大・医・放射線遺伝
+京大・医・消外
+京大・医・生体情報科学
+京大・医・生理
+京大・医・病理・腫瘍生物
+京大・医・療短大|京大・医・技短大
+京大・医・神経細胞薬理
+京大・医・腫瘍生物
+京大・医・薬理
+京大・医・薬理学
+京大・医・視覚病態学
+京大・医・解剖学
+京大・医・麻酔
+京大・医学部
+京大・医療短大
+京大・大学院生命科学研究科|京大・院・生命|京大・生命科学|京大・生命|京大・院生命科学
+京大・情報
+京大・理
+京大・理・分生発セ
+京大・理・化
+京大・理・植物
+京大・理・物理
+京大・理・生物
+京大・理・生物物理
+京大・理・生物物理学教室
+京大・理・生物科学
+京大・理学部
+京大・生存研
+京大・農
+京大・農・応用生物
+京大・農・生化
+京大・農・農化
+京大・附属病院・トランスリサーチ
+京大・附属病院・トランスレーショナルリサーチセンター
+京大・院・医
+京大・院・医・HMRO
+京大・院・医・分子生物
+京大・院・医・分子遺伝
+京大・院・医・循内
+京大・院・医・放射線科学
+京大・院・医・放射線遺伝
+京大・院・医・腫瘍生物
+京大・院・医・臨床神経
+京大・院・医・遺伝医学
+京大・院・工
+京大・院・工・合成生物化学
+京大・院・理
+京大・院・理・植物
+京大・院・理・生物
+京大・院・理・生物物理
+京大・院・生命科学
+京大・院・薬・生体分子
+京大・院・薬・遺伝子
+京大・院・農
+京大・院・農・応用生命
+京大・院・農・応用生命科学
+京大・院・農学研究科|京大・院農
+京大・院医
+京大・院工
+京大・院理|京大・大学院理学研究科
+京大・院薬・遺伝子
+京府医大
+京都大|京都大学
+京都大学
+京都府立医大
+京都府立医大・二内
+京都府立医大・二外
+京都府立医大・公衆衛生
+京都府立医大・医・衛生
+京都府立医大・老化研・神経分子
+京都教育大
+京都教育大学

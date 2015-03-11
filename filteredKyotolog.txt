@@ -1,0 +1,45 @@
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 1 pages scraped
+1 pages scraped
+100 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 2 pages scraped
+2 pages scraped
+132 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 3 pages scraped
+3 pages scraped
+232 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 4 pages scraped
+4 pages scraped
+332 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 5 pages scraped
+5 pages scraped
+395 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 6 pages scraped
+6 pages scraped
+427 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 7 pages scraped
+7 pages scraped
+459 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 8 pages scraped
+8 pages scraped
+559 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 9 pages scraped
+9 pages scraped
+659 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 10 pages scraped
+10 pages scraped
+759 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 11 pages scraped
+11 pages scraped
+859 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 12 pages scraped
+12 pages scraped
+959 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 13 pages scraped
+13 pages scraped
+1059 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 14 pages scraped
+14 pages scraped
+1159 profiles scraped
+http://jglobal.jst.go.jp/search.php#{"keyword":"京大","synonym":null,"category":1,"order":"score","limit":100,"page":1,"words":[{"count":10000,"title":"日本物理学会","code":"","category":1,"groupId":"SO","val":"日本物理学会"}]} url, 15 pages scraped
+15 pages scraped
+1259 profiles scraped
